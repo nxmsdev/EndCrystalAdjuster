@@ -1,0 +1,6 @@
+name: EndCrystalAdjuster
+version: '1.0-SNAPSHOT'
+main: dev.nxms.endcrystaladjuster.EndCrystalAdjuster
+api-version: '1.21'
+authors: [ nxmsdev ]
+website: nxms.dev
