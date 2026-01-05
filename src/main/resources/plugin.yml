@@ -4,3 +4,4 @@ main: dev.nxms.endcrystaladjuster.EndCrystalAdjuster
 api-version: '1.21'
 author: nxmsdev
 website: nxms.dev
+description: 'EndCrystalAdjuster lets you adjust how much knockback and damage players get from destroyed End Crystals nearby them.'
